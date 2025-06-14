@@ -38,4 +38,4 @@ A Node.js backend service that allows users to subscribe to out‑of‑stock pro
       npm run queue
     — or wait 5 minutes for the repeatable job to fire.
 
-"# back-in-stock-notifier" 
+
